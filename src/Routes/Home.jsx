@@ -23,7 +23,7 @@ const Home = () => {
 
   return (
     <main>
-      <h1 style={{fontSize: "1.5rem", textAlign: "center", padding: "0.4rem"}}>Home</h1>
+      <h1 style={{fontSize: "1.5rem", textAlign: "center", padding: "0.4rem"}}>ODONTOLOGOS</h1>
       <div style=
       {{display:"flex",
       justifyContent: "start",

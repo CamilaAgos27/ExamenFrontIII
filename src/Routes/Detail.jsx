@@ -23,7 +23,7 @@ const Detail = () => {
 
   return (
     <>
-      <h1 style={{justify:"center"}}>Detail Dentist id </h1>
+      <h1 style={{justify:"center"}}>Detail Dentist ID </h1>
         <main style=
         {{display:"flex", 
         flexWrap:"wrap", 
